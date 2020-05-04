@@ -2,3 +2,7 @@
 
 
 ![image](https://raw.githubusercontent.com/hailin-du/Big-Data-Analyzing-10GB-of-Yelp-Reviews-Data/master/AWS%20EMR%20Cluster.png)
+
+![image](https://raw.githubusercontent.com/hailin-du/Big-Data-Analyzing-10GB-of-Yelp-Reviews-Data/master/AWS%20EMR%20Notebook.png)
+
+![image](https://raw.githubusercontent.com/hailin-du/Big-Data-Analyzing-10GB-of-Yelp-Reviews-Data/master/AWS%20S3.png)
