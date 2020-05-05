@@ -5,7 +5,6 @@ We will be using a Spark Cluster on AWS EMR for loading and running some analysi
 
 # Amazon EMR Cluster
 We first need to create a cluster on AWS EMR.
-
 ![image](https://raw.githubusercontent.com/hailin-du/Big-Data-Analyzing-10GB-of-Yelp-Reviews-Data/master/Images/AWS%20EMR%20Cluster.png)
 
 
