@@ -8,5 +8,5 @@
 ![image](https://raw.githubusercontent.com/hailin-du/Big-Data-Analyzing-10GB-of-Yelp-Reviews-Data/master/AWS%20EMR%20Notebook.png)
 
 # Amazon S3
-![image](https://raw.githubusercontent.com/hailin-du/Big-Data-Analyzing-10GB-of-Yelp-Reviews-Data/master/AWS%20EMR%20Notebook.png)
+![image](https://raw.githubusercontent.com/hailin-du/Big-Data-Analyzing-10GB-of-Yelp-Reviews-Data/master/AWS%20S3.png)
 
