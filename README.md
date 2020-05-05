@@ -8,11 +8,13 @@ We first need to create a cluster on AWS EMR.
 
 ![image](https://raw.githubusercontent.com/hailin-du/Big-Data-Analyzing-10GB-of-Yelp-Reviews-Data/master/Images/AWS%20EMR%20Cluster.png)
 
-Then, we need to configure our Juypter Notebook.
+
 # Amazon EMR Notebook
+Then, we need to configure our Juypter Notebook.
 ![image](https://raw.githubusercontent.com/hailin-du/Big-Data-Analyzing-10GB-of-Yelp-Reviews-Data/master/Images/AWS%20EMR%20Notebook.png)
 
-Lastly, we will download the dataset and upload it to Amazon S3.
+
 # Amazon S3
+Lastly, we will download the dataset and upload it to Amazon S3.
 ![image](https://raw.githubusercontent.com/hailin-du/Big-Data-Analyzing-10GB-of-Yelp-Reviews-Data/master/Images/AWS%20S3.png)
 
